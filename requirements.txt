@@ -1,0 +1,6 @@
+huggingface-hub
+soundfile
+datasets
+librosa
+pandas
+pydub
